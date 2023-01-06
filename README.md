@@ -36,4 +36,4 @@ The entire approach to reach the objective has been done through following steps
   11. **Running test data using saved model**
   
 ## Output
-  Received **final accuracy of 99.02 % for Test data** for both * *MNIST* * and * *Sum of MNIST ouput and Random Number* *
+  Received **final accuracy of 99.02 % for Test data** for both *MNIST* and *Sum of MNIST ouput and Random Number*
