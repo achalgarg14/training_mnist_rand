@@ -38,3 +38,15 @@ The entire approach to reach the objective has been done through following steps
   
 ## Output
   Received **final accuracy of 99.02 % for Test data** for both *MNIST* and *Sum of MNIST ouput and Random Number*<br />
+
+## Training Log
+epoch: 1 Train tot_corr MNIST %: 92.75166666666667 Train loss MNIST: 212.84286183165386 Train tot_corr Sum %: 68.93833333333333 Train loss Sum: 1439.8937289714813
+epoch: 2 Train tot_corr MNIST %: 98.02166666666666 Train loss MNIST: 62.28390231949743 Train tot_corr Sum %: 98.02166666666666 Train loss Sum: 235.9421487338841
+epoch: 3 Train tot_corr MNIST %: 98.64166666666667 Train loss MNIST: 42.35233556997264 Train tot_corr Sum %: 98.64166666666667 Train loss Sum: 120.22995690070093
+epoch: 4 Train tot_corr MNIST %: 98.92333333333333 Train loss MNIST: 32.93829559401638 Train tot_corr Sum %: 98.92333333333333 Train loss Sum: 92.19452646374702
+epoch: 5 Train tot_corr MNIST %: 99.08833333333334 Train loss MNIST: 28.46076342613378 Train tot_corr Sum %: 99.08833333333334 Train loss Sum: 75.8768017962575
+epoch: 6 Train tot_corr MNIST %: 99.28166666666667 Train loss MNIST: 23.416712078877026 Train tot_corr Sum %: 99.28166666666667 Train loss Sum: 60.28840802796185
+epoch: 7 Train tot_corr MNIST %: 99.31 Train loss MNIST: 20.664671138230005 Train tot_corr Sum %: 99.31 Train loss Sum: 56.641787603497505
+epoch: 8 Train tot_corr MNIST %: 99.37 Train loss MNIST: 18.97374286950162 Train tot_corr Sum %: 99.37 Train loss Sum: 51.20052558043972
+epoch: 9 Train tot_corr MNIST %: 99.51666666666667 Train loss MNIST: 16.290747231671958 Train tot_corr Sum %: 99.51666666666667 Train loss Sum: 42.12957690563053
+epoch: 10 Train tot_corr MNIST %: 99.60833333333333 Train loss MNIST: 12.63197883257476 Train tot_corr Sum %: 99.60833333333333 Train loss Sum: 33.237089331727475
