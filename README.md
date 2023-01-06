@@ -35,5 +35,5 @@ The entire approach to reach the objective has been done through following steps
   10. **Model parameters were saved** on drive
   11. **Running test data using saved model**
   
-##Output
+## Output
   Received **final accuracy of 99.02 % for Test data** for both * *MNIST* * and * *Sum of MNIST ouput and Random Number* *
