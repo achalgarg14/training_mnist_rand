@@ -10,11 +10,11 @@ And give two outputs:
 
 ## Approach
 The entire approach to reach the objective has been done through following steps:
-  1. **Understanding and Visualing the Data**
+  1. **Understanding and Visualing the Data**<br />
     a. Downloading the MNIST Data
     b. Visualising the Data
-    c. Trying out Batch Creation, 
-  2. **Creating Dataset** for training **with 2 Inputs and 2 Labels**
+    c. Trying out Batch Creation <br />
+  2. **Creating Dataset** for training **with 2 Inputs and 2 Labels**<br />
     a. MNIST Data from the standard dataset was loaded (Train Data Size: 60,000 and Test Data Size: 10,000)
     b. Defining a separate class (with parent class Dataset of torch) to create Random Number Datatset with one hot encoding as Input Data and Number as ouptut
       - Same Size Test and Train Data was created 
@@ -32,7 +32,7 @@ The entire approach to reach the objective has been done through following steps
   7. **Train and Test Loader** were created
   8. **Checking of Network** for one step of one epoch - to understand if there is any problem in Network Defined
     a. Reitertaed till Network was finalised and running smoothly
-  9. **Final Run of 10 epochs on the model**
+  9. **Model Training** - Model was trained for 10 epochs with Training Data (Number of epochs could have been more optimised based on Training Loss - but not implemented in this code) 
   10. **Model parameters were saved** on drive
   11. **Running test data using saved model**
   
